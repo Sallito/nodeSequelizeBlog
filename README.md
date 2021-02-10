@@ -1,5 +1,5 @@
 <h1 align=center>Nodesequelizeblog</h1>
-<p align=center>O projeto Nodesequelizeblog mostra a estrutura para criação de um CRUD de SQL no fornt-end.</p>
+<p align=center>O projeto Nodesequelizeblog mostra a estrutura para criação de um CRUD de SQL no front-end.</p>
 
 ## Getting Started
 

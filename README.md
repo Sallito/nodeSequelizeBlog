@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-É necessário instalar os seguintes pacotes npm no diretório raiz:
+Para iniciar o projeto é necessário os seguintes programas:
 - [nodeJS - para a manipulação dos pacotes javascript](https://nodejs.org/en/download/) 
 - [IDE VScode (opcional) - para o desenvolvimento do projeto](https://code.visualstudio.com/download)
 - [PostgreSQL (opcional) - para a criação e gerenciamento do banco de dados](https://www.postgresql.org/download/)
